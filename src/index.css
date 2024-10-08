@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-gray-900;
+}
+
+.thin-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #888888 #f1f1f1;
+}

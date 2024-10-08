@@ -1,0 +1,1 @@
+export const server = "https://chatbot-fq0l.onrender.com"; 
